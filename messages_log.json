@@ -1,0 +1,44 @@
+[
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "oi",
+        "response_msg": "Olá! Como posso ajudar você hoje?",
+        "timestamp": "2024-05-15T14:56:15+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "preciso de ajuda",
+        "response_msg": "Olá, sou um sistema de respostas automáticas. Como posso ajudar você hoje? \n Para saber nossos horários: 1 \n Para endereço digite: 2",
+        "timestamp": "2024-05-15T14:56:41+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "1",
+        "response_msg": "Nosso horário de atendimento é das 9h às 18h, de segunda a sexta-feira.",
+        "timestamp": "2024-05-15T14:56:48+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "ola",
+        "response_msg": "Olá, sou um sistema de respostas automáticas. Como posso ajudar você hoje? \n Para saber nossos horários: 1 \n Para endereço digite: 2",
+        "timestamp": "2024-05-15T14:59:58+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "2",
+        "response_msg": "Estamos localizados na Rua honduras, Serra Grande, Itaipu, Niteroi.",
+        "timestamp": "2024-05-15T15:00:03+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "a",
+        "response_msg": "Olá, sou um sistema de respostas automáticas. Como posso ajudar você hoje? \n Para saber nossos horários: 1 \n Para endereço digite: 2",
+        "timestamp": "2024-05-17T17:59:54+00:00"
+    },
+    {
+        "from_number": "whatsapp:+5521990247117",
+        "incoming_msg": "1",
+        "response_msg": "Nosso horário de atendimento é das 9h às 18h, de segunda a sexta-feira.",
+        "timestamp": "2024-05-17T18:00:56+00:00"
+    }
+]
